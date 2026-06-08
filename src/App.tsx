@@ -953,8 +953,8 @@ function Contact() {
     {
       icon: Phone,
       label: "Phone",
-      value: "+91 9136850561",
-      href: "tel:+919136850561",
+      value: "",
+      href: "tel:+91",
     },
     { icon: MapPin, label: "Location", value: "India", href: "#" },
   ];
