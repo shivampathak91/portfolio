@@ -6,11 +6,7 @@ This is my personal portfolio website built using **Bolt.new** and modern web te
 
 🌐 Live Demo
 
-Once deployed, your live site will be available here:
-
-https://your-vercel-url.vercel.app
-
-(Replace with your actual Vercel or hosting link)
+https://portfolio-ruby-ten-36.vercel.app
 
 ---
 
